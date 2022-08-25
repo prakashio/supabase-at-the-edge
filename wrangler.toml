@@ -1,0 +1,7 @@
+name = "supabase-at-the-edge"
+main = "src/index.js"
+compatibility_date = "2022-08-25"
+
+kv_namespaces = [
+    { binding = "JOKES", id = "a9a6d5d32eed4c3b940d59f26ffab533", preview_id = "8e0d96c46c4a42c083fbac3c008283ef"  }
+]
